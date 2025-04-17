@@ -1,6 +1,6 @@
 # TickDone - Pruebas Automatizadas con Selenium
 
-Este repositorio contiene pruebas automatizadas para la aplicación **TickDone**, desarrollada con Django y Bootstrap.
+Este repositorio contiene pruebas automatizadas para la aplicación **TickDone** (Subida en otro repositorio), desarrollada con Django y Bootstrap.
 
 ## Descripción
 
